@@ -10,8 +10,8 @@ Tools and Technologies
 Programming Language: Python
 Libraries: pandas, numpy, matplotlib, scikit-learn
 Model: Random Forest Classifier
-Key Steps
-Data Collection and Preprocessing:
+
+Key Steps Data Collection and Preprocessing:
 
 Imported the dataset and performed initial exploration and cleaning.
 Handled missing values and transformed categorical variables.
