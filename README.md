@@ -14,17 +14,21 @@ Data Collection and Preprocessing:
 
 Imported the dataset and performed initial exploration and cleaning.
 Handled missing values and transformed categorical variables.
+
 Feature Selection and Engineering:
 
 Selected relevant features that significantly contribute to the prediction of heart failure.
+
 Model Training and Tuning:
 
 Used GridSearchCV to optimize hyperparameters of the Random Forest Classifier.
 Evaluated multiple models to select the best performing one.
+
 Model Evaluation:
 
 Achieved an accuracy of 98.65% with the initial model and 100% with the optimized model.
 Utilized confusion matrices and classification reports to assess model performance.
+
 Results
 The final model achieved an accuracy of 100%, with a perfect classification report and confusion matrix results. These outcomes demonstrate the model's effectiveness in predicting heart failure accurately based on the provided dataset.
 
